@@ -2,7 +2,7 @@
 
 **MERN Stack Developer** | Passionate about crafting responsive, scalable web applications with clean code and seamless user experiences.
 
-📍 Alappuzha, Kerala | 📧 anjalik216@gmail.com |   
+📍 Alappuzha, Kerala | 📧 anjalik216@gmail.com | 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anjali--krishnan--345300210-blue?logo=linkedin)](https://linkedin.com/in/anjali-krishnan-345300210)
 [![GitHub](https://img.shields.io/badge/GitHub-anjali216-black?logo=github)](https://github.com/anjali216)
 
@@ -12,38 +12,48 @@
 
 I’m a **detail-oriented MERN Stack Developer** with hands-on experience building responsive, full-stack web applications. I’ve worked across various roles, from software development to Python backend scripting, and always strive to bring clean logic and user-focused design to every project.
 
----
 
 ## 🛠️ Tech Stack
 
+### 💻 Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-**Frontend:**  
-React.js • HTML5 • CSS3 • JavaScript • Bootstrap  
+### 🧠 Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
+</p>
 
-**Backend:**  
-Node.js • Express.js • RESTful APIs  
+### 🛢️ Database
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+</p>
 
-**Database:**  
-MongoDB • Mongoose  
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-**Tools & Platforms:**  
-Git • GitHub • Postman • Netlify • VS Code  
+### 🔐 API & Auth
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenWeather-FF7F50?style=for-the-badge&logo=OpenWeather&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 
-**API & Auth:**  
-OpenWeather API • Stripe Payment Gateway • JWT (JSON Web Tokens)
-
+---
 
 ## 💼 Professional Experience
 
@@ -74,7 +84,6 @@ Built with React and a custom JSON server to deliver an intuitive drag-and-drop 
 ### 🛍️ [E-Commerce Product Display](https://github.com/anjali216)  
 Responsive front-end built with React, React Router DOM, Bootstrap. Integrates external APIs to fetch and display real-time product data.
 
----
 
 ## 📊 GitHub Stats
 
@@ -83,7 +92,6 @@ Responsive front-end built with React, React Router DOM, Bootstrap. Integrates e
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali216&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
----
 
 ## ✨ Fun Facts
 
@@ -91,7 +99,7 @@ Responsive front-end built with React, React Router DOM, Bootstrap. Integrates e
 - Always exploring new tech, especially in full-stack and API integrations.  
 - Enjoy working in collaborative environments where learning and building go hand-in-hand.
 
-
+---
 
 
 
