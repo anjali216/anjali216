@@ -93,12 +93,6 @@ Responsive front-end built with React, React Router DOM, Bootstrap. Integrates e
 </p>
 
 
-## ✨ Fun Facts
-
-- I love turning complex ideas into clean, user-friendly code.  
-- Always exploring new tech, especially in full-stack and API integrations.  
-- Enjoy working in collaborative environments where learning and building go hand-in-hand.
-
 ---
 
 
