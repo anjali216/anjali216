@@ -2,7 +2,7 @@
 
 **MERN Stack Developer** | Passionate about crafting responsive, scalable web applications with clean code and seamless user experiences.
 
-📍 Alappuzha, Kerala | 📧 anjalik216@gmail.com | 📞 +91 6238 298 596  
+📍 Alappuzha, Kerala | 📧 anjalik216@gmail.com 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anjali--krishnan--345300210-blue?logo=linkedin)](https://linkedin.com/in/anjali-krishnan-345300210)
 [![GitHub](https://img.shields.io/badge/GitHub-anjali216-black?logo=github)](https://github.com/anjali216)
 
