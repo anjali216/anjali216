@@ -59,7 +59,7 @@ I’m a **detail-oriented MERN Stack Developer** with hands-on experience buildi
 
 - **MERN Stack Intern** @ Luminar Technolab (Apr 2024 – Nov 2024)  
 - **Software Developer** @ G-TEC Computer Education (Apr 2023 – Sep 2023)  
-- **Python Developer** @ Datatec Skill Academy (Jan 2024 – Mar 2024)  
+- **Software Developer** @ Datatec Skill Academy (Jan 2024 – Mar 2024)  
 - **Business Development Associate** @ Avodha Edutech (Mar 2025 – Apr 2025)
 
 
