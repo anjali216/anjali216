@@ -61,7 +61,7 @@ I’m a **detail-oriented MERN Stack Developer** with hands-on experience buildi
 - **Software Developer** @ G-TEC Computer Education (Apr 2023 – Sep 2023)  
 - **Software Developer** @ Datatec Skill Academy (Jan 2024 – Mar 2024)  
 - **Business Development Associate** @ Avodha Edutech (Mar 2025 – May 2025)
-- **Acaddemic coordinator** @Avodha Edutech(June 2025-present) 
+- **Academic coordinator** @Avodha Edutech(June 2025-present) 
 
 
 ## 📚 Certifications
