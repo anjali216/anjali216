@@ -61,7 +61,7 @@ I’m a **detail-oriented MERN Stack Developer** with hands-on experience buildi
 - **Software Developer** @ G-TEC Computer Education (Apr 2023 – Sep 2023)  
 - **Software Developer** @ Datatec Skill Academy (Jan 2024 – Mar 2024)  
 - **Academic Councellor** @ Avodha Edutech (Mar 2025 – August 2025)
--**Sofyware Trainer**@Sreeshankaracharya(September 2025-Present) 
+-**Sofware Trainer**@Sreeshankaracharya(September 2025-Present) 
 
 
 ## 📚 Certifications
