@@ -85,10 +85,9 @@ Built with React and a custom JSON server to deliver an intuitive drag-and-drop 
 ### 🛍️ [E-Commerce Product Display](https://github.com/anjali216)  
 Responsive front-end built with React, React Router DOM, Bootstrap. Integrates external APIs to fetch and display real-time product data.
 
-
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats -->
+<!-- Profile Stats -->
 ![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjali216&show_icons=true&theme=radical)
 
 <!-- Most Used Languages -->
@@ -96,6 +95,9 @@ Responsive front-end built with React, React Router DOM, Bootstrap. Integrates e
 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=anjali216&theme=radical)
+
+<!-- Contribution Graph (Like your GitHub contribution square chart) -->
+![Anjali's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=anjali216&theme=react-dark&hide_border=true&area=true)
 
 
 ---
