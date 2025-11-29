@@ -88,11 +88,14 @@ Responsive front-end built with React, React Router DOM, Bootstrap. Integrates e
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjali216&show_icons=true&theme=radical" alt="Anjali's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali216&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+<!-- GitHub Stats -->
+![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjali216&show_icons=true&theme=radical)
+
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali216&layout=compact&theme=radical)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=anjali216&theme=radical)
 
 
 ---
