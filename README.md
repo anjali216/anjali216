@@ -58,8 +58,7 @@ I’m a **detail-oriented MERN Stack Developer** with hands-on experience buildi
 ## 💼 Professional Experience
 
 - **MERN Stack Intern** @ Luminar Technolab (Apr 2024 – Nov 2024)  
-- **Software Faculty** @ G-TEC Computer Education (Apr 2023 – Sep 2023)  
-- **Software Faculty** @ Datatec Skill Academy (Jan 2024 – Mar 2024)  
+- **Software Faculty** @ G-TEC Computer Education (Apr 2023 – Sep 2023)    
 - **Academic Councellor** @ Avodha Edutech (Mar 2025 – August 2025)
 - **Software Trainer**@Sreeshankaracharya(September 2025-Present)
 - **Mern Stack Developer** @ Trackpi private limited(December2025-present)
