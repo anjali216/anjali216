@@ -2,7 +2,7 @@
 
 **MERN Stack Developer** | Passionate about crafting responsive, scalable web applications with clean code and seamless user experiences.
 
-📍 Alappuzha, Kerala | 📧 anjalik216@gmail.com | 
+📍 Alappuzha, Kerala | 📧 anjalik216@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anjali--krishnan--345300210-blue?logo=linkedin)](https://linkedin.com/in/anjali-krishnan-345300210)
 [![GitHub](https://img.shields.io/badge/GitHub-anjali216-black?logo=github)](https://github.com/anjali216)
 
@@ -10,95 +10,65 @@
 
 ## 🚀 About Me
 
-I’m a **detail-oriented MERN Stack Developer** with hands-on experience building responsive, full-stack web applications. I’ve worked across various roles, from software development to Python backend scripting, and always strive to bring clean logic and user-focused design to every project.
+I’m a **detail-oriented MERN Stack Developer** with hands-on experience building responsive, full-stack web applications.  
+I’ve worked across multiple roles, from software development to backend scripting, and I consistently focus on **clean logic, scalability, and user-focused design**.
 
+---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### 💻 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 🧠 Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square)
 
-### 🛢️ Database
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-</p>
+### 🛢 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
 ### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
-### 🔐 API & Auth
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenWeather-FF7F50?style=for-the-badge&logo=OpenWeather&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-- **MERN Stack Intern** @ Luminar Technolab (Apr 2024 – Nov 2024)  
-- **Software Faculty** @ G-TEC Computer Education (Apr 2023 – Sep 2023)    
-- **Academic Councellor** @ Avodha Edutech (Mar 2025 – August 2025)
-- **Software Trainer**@Sreeshankaracharya(September 2025-Present)
-- **Mern Stack Developer** @ Trackpi private limited(December2025-May2026)
+- **MERN Stack Intern** – Luminar Technolab *(Apr 2024 – Nov 2024)*  
+- **Software Faculty** – G-TEC Computer Education *(Apr 2023 – Sep 2023)*  
+- **Academic Counsellor** – Avodha Edutech *(Mar 2025 – Aug 2025)*  
+- **Software Trainer** – Sree Sankaracharya Institute *(Sep 2025 – Present)*  
+- **MERN Stack Developer** – Trackpi Pvt. Ltd *(Dec 2025 – May 2026)*  
 
-
-## 📚 Certifications
-
-- MERN Stack – National Council for Technology & Training  
-- Python – LSBS Certificate  
-- PHP – G-TEC Computer Education  
-
+---
 
 ## 🔥 Featured Projects
 
-### 🏥 [Hospital Management System](https://github.com/anjali216)  
-MERN stack app with secure JWT-based multi-level authentication. Dual frontend interfaces for admins and users for efficient hospital operations.
+- **Hospital Management System** – MERN app with JWT authentication and Admin/User dashboards  
+- **E-Cart Application (Redux)** – Global state management using Redux  
+- **Media Player App** – React app with drag-and-drop functionality  
+- **Product Display App** – API-based React app with routing and responsive UI  
 
-### 🛒 [E-Cart with Redux](https://github.com/anjali216)  
-A state-managed shopping cart using Redux, reducers, middleware, and store setup. A great example of managing global application state.
+---
 
-### 🎵 [Media Player App](https://github.com/anjali216)  
-Built with React and a custom JSON server to deliver an intuitive drag-and-drop music player UI.
+## 📊 GitHub Status
 
-### 🛍️ [E-Commerce Product Display](https://github.com/anjali216)  
-Responsive front-end built with React, React Router DOM, Bootstrap. Integrates external APIs to fetch and display real-time product data.
-
-## 📊 GitHub Stats
-
-<!-- Profile Stats -->
-![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjali216&show_icons=true&theme=radical)
-
-<!-- Most Used Languages -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjali216&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali216&layout=compact&theme=radical)
-
-<!-- GitHub Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=anjali216&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjali216&theme=react-dark&hide_border=true)
 
-<!-- Contribution Graph (Like your GitHub contribution square chart) -->
-![Anjali's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=anjali216&theme=react-dark&hide_border=true&area=true)
-
+📈 *Consistent contributor focused on MERN stack development and continuous learning.*
 
 ---
 
