@@ -68,10 +68,8 @@ I’ve worked across multiple roles, from software development to backend script
 ![GitHub Streak](https://streak-stats.demolab.com/?user=anjali216&theme=radical)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjali216&theme=react-dark&hide_border=true)
 
-📈 *Consistent contributor focused on MERN stack development and continuous learning.*
 
 ---
-
 
 
 
