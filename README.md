@@ -47,7 +47,7 @@ I’ve worked across multiple roles, from software development to backend script
 - **MERN Stack Intern** – Luminar Technolab *(Apr 2024 – Nov 2024)*  
 - **Software Faculty** – G-TEC Computer Education *(Apr 2023 – Sep 2023)*  
 - **Academic Counsellor** – Avodha Edutech *(Mar 2025 – Aug 2025)*  
-- **Software Trainer** – Sree Sankaracharya Institute *(Sep 2025 – Present)*  
+- **Software Faculty** – Sree Sankaracharya Institute *(Sep 2025 – Present)*  
 - **MERN Stack Developer** – Trackpi Pvt. Ltd *(Dec 2025 – May 2026)*  
 
 ---
