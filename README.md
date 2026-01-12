@@ -10,8 +10,9 @@
 
 ## 🚀 About Me
 
-I’m a **detail-oriented MERN Stack Developer** with hands-on experience building responsive, full-stack web applications.  
-I’ve worked across multiple roles, from software development to backend scripting, and I consistently focus on **clean logic, scalability, and user-focused design**.
+I am a passionate and **detail-oriented MERN Stack Developer** with hands-on experience in building scalable, secure, and responsive web applications. I specialize in React.js, Node.js, Express.js, and MongoDB, and enjoy developing real-world solutions with clean code, structured architecture, and optimized performance.
+
+I’ve worked across development, training, and academic roles, gaining strong exposure to backend logic, problem-solving, REST API handling, authentication, and modern frontend development.
 
 ---
 
