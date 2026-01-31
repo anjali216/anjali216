@@ -54,9 +54,9 @@ I have worked across multiple roles including Software Developer, MERN Stack Int
 ---
 
 ## 🛠️ Projects
-##🏥 Hospital Management System (MERN Stack)
+🏥 Hospital Management System (MERN Stack)
 
-##🛒 E-Cart (React + Redux)
+🛒 E-Cart (React + Redux)
 
 🎵 Media Player App
 
