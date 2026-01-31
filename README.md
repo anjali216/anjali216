@@ -14,7 +14,6 @@ I am a detail-oriented MERN Stack Developer with hands-on experience in building
 
 I have worked across multiple roles including Software Developer, MERN Stack Intern, and Technical Faculty, which has strengthened my problem-solving skills, backend logic, and ability to explain complex concepts clearly.
 
-Currently, I am focused on improving my expertise in performance optimization, API integration, authentication systems, and scalable application design.
 ---
 
 ## 🛠 Tech Stack
@@ -54,13 +53,38 @@ Currently, I am focused on improving my expertise in performance optimization, A
 
 ---
 
-## 🔥 Featured Projects
+## 🛠️ Projects
+🏥 Hospital Management System (MERN Stack)
 
-- **Hospital Management System** – MERN app with JWT authentication and Admin/User dashboards  
-- **E-Cart Application (Redux)** – Global state management using Redux  
-- **Media Player App** – React app with drag-and-drop functionality  
-- **Product Display App** – API-based React app with routing and responsive UI  
+Secure authentication & authorization
 
+Multi-level JWT handling
+
+Separate user & admin dashboards
+
+Scalable backend architecture
+
+🛒 E-Cart (React + Redux)
+
+State management using Redux
+
+Store, reducers & middleware implementation
+
+Dynamic product handling
+
+🎵 Media Player App
+
+Built with React.js and JSON Server
+
+Smooth UI with interactive controls
+
+🛍️ E-Commerce Product App
+
+API-based dynamic product listing
+
+React Router DOM navigation
+
+Fully responsive design
 ---
 
 ## 📊 GitHub Status
