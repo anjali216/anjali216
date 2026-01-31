@@ -54,35 +54,13 @@ I have worked across multiple roles including Software Developer, MERN Stack Int
 ---
 
 ## 🛠️ Projects
-🏥 Hospital Management System (MERN Stack)
+##🏥 Hospital Management System (MERN Stack)
 
-Secure authentication & authorization
-
-Multi-level JWT handling
-
-Separate user & admin dashboards
-
-Scalable backend architecture
-
-🛒 E-Cart (React + Redux)
-
-State management using Redux
-
-Store, reducers & middleware implementation
-
-Dynamic product handling
+##🛒 E-Cart (React + Redux)
 
 🎵 Media Player App
 
-Built with React.js and JSON Server
-
-Smooth UI with interactive controls
-
 🛍️ E-Commerce Product App
-
-API-based dynamic product listing
-
-React Router DOM navigation
 
 Fully responsive design
 ---
