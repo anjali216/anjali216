@@ -65,17 +65,19 @@
 
 ---
 
-## 🛠️ Projects
-🏥 Hospital Management System (MERN Stack)
+## 🧩 Projects I’ve Worked On
 
-🛒 E-Cart (React + Redux)
+🏥 Hospital Management System (MERN) – Auth, admin/user dashboards, appointment management
 
-🎵 Media Player App
+🛒 E-Commerce / Book Store App – Cart, wishlist, orders, admin panel, low-stock alerts
 
-🛍️ E-Commerce Product App
+📊 Job Portal Application – Job posting, filtering, and applications
 
-Fully responsive design
----
+🎬 Media Player App – Drag & drop, custom JSON server
+
+📦 Product Display & Dashboard Apps – API integration, routing, responsive UI
+
+👉 Check out my repositories to see real-world implementations and clean project structures.
 
 ## 📊 GitHub Status
 
