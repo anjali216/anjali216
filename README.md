@@ -60,7 +60,7 @@ I specialize in React.js, with a strong focus on clean code, performance optimiz
 - **MERN Stack Intern** – Luminar Technolab *(Apr 2024 – Nov 2024)*  
 - **Software Faculty** – G-TEC Computer Education *(Apr 2023 – Sep 2023)*  
 - **Academic Counsellor** – Avodha Edutech *(Mar 2025 – Aug 2025)*  
-- **Software Faculty** – Sree Sankaracharya Institute *(Sep 2025 – Present)*  
+- **Software Faculty** – Sree Sankaracharya Institute *(Sep 2025 – February 2025)*  
 - **MERN Stack Developer** – Trackpi Pvt. Ltd *(Dec 2025 – May 2026)*  
 
 ---
