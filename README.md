@@ -61,7 +61,8 @@ I specialize in React.js, with a strong focus on clean code, performance optimiz
 - **Software Faculty** – G-TEC Computer Education *(Apr 2023 – Sep 2023)*  
 - **Academic Counsellor** – Avodha Edutech *(Mar 2025 – Aug 2025)*  
 - **Software Faculty** – Sree Sankaracharya Institute *(Sep 2025 – February 2026)*  
-- **MERN Stack Developer** – Trackpi Pvt. Ltd *(Dec 2025 – June 2026)*  
+- **Software Developer** – Trackpi Pvt. Ltd *(Dec 2025 – June 2026)*
+- **MERN Stack Developer** - Hall Dot X Technologies (HDX Technologies) *(March 2026-Present)* 
 
 ---
 
